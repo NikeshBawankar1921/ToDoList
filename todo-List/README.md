@@ -45,7 +45,7 @@ Follow the steps below to run the application locally:
 
 git clone https://github.com/NikeshBawankar1921/ToDoList.git
 
-cd task-manager-react
+cd todo-List
 
 2️⃣ Install Dependencies
 Make sure you have Node.js and npm installed.
